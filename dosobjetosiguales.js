@@ -6,7 +6,7 @@ function generarcontador(valor) {
 
 const valor = generarcontador(1);
 
-console.log(valor);*/
+console.log(valor);
 
 //compara dos objetos
 function sonIguales(obj1, obj2) {
@@ -50,3 +50,6 @@ console.log(sonIguales({ a: 1, b: 2 }, { a: 1, b: 2 }));
 console.log(sonIguales([{ a: 1, b: 2 }], [{ a: 1, b: 2 }]));
 console.log(sonIguales([{ a: [100, 200], b: 2 }], [{ a: [100, 200], b: 2 }]));
 console.log(sonIguales([{ a: [100, 200], b: { x: 'ABC' } }], [{ a: [100, 200], b: { x: 'ABC' } }])); 
+*/
+
+
